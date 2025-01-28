@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Pilot-Alpha
 - 👀 I’m interested in web development, machine learning and app development
 - 🌱 I’m currently learning python and js (begineer)
+- I possess advanced knowledge in HTML and CSS
 - 📫 wish me luck
 
 <!---
